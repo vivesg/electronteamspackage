@@ -8,3 +8,5 @@ Once Nodejs is installed in your system open the command line and execute the co
 
 After that look for your tenant
 
+ ![Tenant](https://github.com/vivesg/electronteamspackage/blob/main/tenant.jpg)
+
