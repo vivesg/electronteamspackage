@@ -10,3 +10,12 @@ After that look for your tenant
 
  ![Tenant](https://github.com/vivesg/electronteamspackage/blob/main/tenant.jpg)
 
+Get your tenant ID
+
+Then you need to run 
+
+Create a folder and run
+
+    nativefier.cmd https://teams.microsoft.com/_?tenantID=YOURTENANTID --name "NAMEOFAPP" --internal-urls .* --icon "Logo.ico"
+
+There you go you are going to get a .exe app
